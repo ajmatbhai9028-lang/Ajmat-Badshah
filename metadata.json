@@ -1,0 +1,6 @@
+{
+  "name": "WCI Furniture",
+  "description": "Next-generation luxury e-commerce, 3D room planning, AR visualization, and bespoke interior ecosystem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
